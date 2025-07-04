@@ -36,10 +36,10 @@ All categories above will be evaluated by top-1 accuracy.
 
 ---
 
-| | | |
+|KiVA example|KiVA-functions example|KiVA-functions-compositionality example|
 |:---:|:---:|:---:|
 | <img src="images/k.jpg" alt="KiVA Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kf.jpg" alt="KiVA-functions Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" width="200" height="auto" style="border-radius: 8px;"> |
-| (1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number) | (2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number) | (3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation) |
+|generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number) | generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number) | generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation) |
 ## KiVA annotations
 
 **Ground truth annotations (train.json)**
