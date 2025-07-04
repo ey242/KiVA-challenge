@@ -32,21 +32,10 @@ Each image in the dataset denotes an individual trial.
 | KiVA-functions                 |   Moderate |Rotation, Reflection, Resizing, Counting  |
 | KiVA-functions-compositionality|  Difficult |Rotation & Resizing, Rotation & Counting, Reflection & Resizing, Reflection & Counting, Resizing & Counting  |
 
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 20px;">
-    <div style="text-align: center; width: 200px;">
-        <img src="images/k.jpg" alt="KiVA Example" style="width: 100%; height: auto; border-radius: 8px;">
-        <p style="font-size: 0.85em;">(1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number)</p>
-    </div>
-    <div style="text-align: center; width: 200px;">
-        <img src="images/kf.jpg" alt="KiVA-functions Example" style="width: 100%; height: auto; border-radius: 8px;">
-        <p style="font-size: 0.85em;">(2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number)</p>
-    </div>
-    <div style="text-align: center; width: 200px;">
-        <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" style="width: 100%; height: auto; border-radius: 8px;">
-        <p style="font-size: 0.85em;">(3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation)</p>
-    </div>
-</div>
-
+| | | |
+|:---:|:---:|:---:|
+| <img src="images/k.jpg" alt="KiVA Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kf.jpg" alt="KiVA-functions Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" width="200" height="auto" style="border-radius: 8px;"> |
+| (1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number) | (2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number) | (3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation) |
 All categories above will be evaluated by top-1 accuracy.
 
 ## KiVA annotations
