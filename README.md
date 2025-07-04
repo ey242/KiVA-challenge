@@ -32,12 +32,14 @@ Each image in the dataset denotes an individual trial.
 | KiVA-functions                 |   Moderate |Rotation, Reflection, Resizing, Counting  |
 | KiVA-functions-compositionality|  Difficult |Rotation & Resizing, Rotation & Counting, Reflection & Resizing, Reflection & Counting, Resizing & Counting  |
 
+All categories above will be evaluated by top-1 accuracy.
+
+---
+
 | | | |
 |:---:|:---:|:---:|
 | <img src="images/k.jpg" alt="KiVA Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kf.jpg" alt="KiVA-functions Example" width="200" height="auto" style="border-radius: 8px;"> | <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" width="200" height="auto" style="border-radius: 8px;"> |
 | (1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number) | (2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number) | (3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation) |
-All categories above will be evaluated by top-1 accuracy.
-
 ## KiVA annotations
 
 **Ground truth annotations (train.json)**
