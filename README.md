@@ -34,7 +34,7 @@ Each image in the dataset denotes an individual trial.
 
 All categories above will be evaluated by top-1 accuracy.
 
----
+Click on the images below to see an example from each level of difficulty.
 
 |KiVA example|KiVA-functions example|KiVA-functions-compositionality example|
 |:---:|:---:|:---:|
