@@ -65,7 +65,7 @@ Click on the images below to see an example from each level of difficulty.
 
 # Dummy Baseline: Model Evaluation in the Challenge
 
-We provide a dummy baseline to showcase how models will be evaluated in the challenge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DSLTYeoUa72eJBKBjGmQcIdMPRpEIonB?usp=sharing) |
+We provide a dummy baseline to showcase how models will be evaluated in the challenge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DSLTYeoUa72eJBKBjGmQcIdMPRpEIonB?usp=sharing) 
 
 ## Feedback and support
 
