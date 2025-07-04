@@ -32,18 +32,18 @@ Each image in the dataset denotes an individual trial.
 | KiVA-functions                 |   Moderate |Rotation, Reflection, Resizing, Counting  |
 | KiVA-functions-compositionality|  Difficult |Rotation & Resizing, Rotation & Counting, Reflection & Resizing, Reflection & Counting, Resizing & Counting  |
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-    <div style="text-align: center; margin: 10px; flex: 1 1 30%;">
-        <img src="images/k.jpg" alt="KiVA Example" style="max-width: 100%; height: auto; border-radius: 8px;">
-        <p>(1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number)</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 20px;">
+    <div style="text-align: center; width: 200px;">
+        <img src="images/k.jpg" alt="KiVA Example" style="width: 100%; height: auto; border-radius: 8px;">
+        <p style="font-size: 0.85em;">(1) KiVA examines generalization to novel objects (e.g. rule: 6 new objects decrease by 1 in number)</p>
     </div>
-    <div style="text-align: center; margin: 10px; flex: 1 1 30%;">
-        <img src="images/kf.jpg" alt="KiVA-functions Example" style="max-width: 100%; height: auto; border-radius: 8px;">
-        <p>(2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number)</p>
+    <div style="text-align: center; width: 200px;">
+        <img src="images/kf.jpg" alt="KiVA-functions Example" style="width: 100%; height: auto; border-radius: 8px;">
+        <p style="font-size: 0.85em;">(2) KiVA examines generalization to novel values of visual features through functional inference (e.g. rule: new number of new objects decrease by 1 in number)</p>
     </div>
-    <div style="text-align: center; margin: 10px; flex: 1 1 30%;">
-        <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" style="max-width: 100%; height: auto; border-radius: 8px;">
-        <p>(3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation)</p>
+    <div style="text-align: center; width: 200px;">
+        <img src="images/kfc.jpg" alt="KiVA-functions-compositionality Example" style="width: 100%; height: auto; border-radius: 8px;">
+        <p style="font-size: 0.85em;">(3) KiVA examines generalization to novel values and combinations of visual features, testing functional and compositional reasoning (e.g. rule: new number and new orientation of new objects decrease by 1 in number and rotate by 180 degrees in orientation)</p>
     </div>
 </div>
 
