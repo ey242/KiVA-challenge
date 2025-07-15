@@ -1,7 +1,7 @@
 # KiVA: Kid-inspired Visual Analogies
 
 # News
-KiVA will debut as a challenge at Google DeepMind’s Third Perception Challenge at ICCV 2025, [challenge website](https://kiva-challenge.github.io/).
+KiVA will debut as a challenge at Google DeepMind’s Third Perception Challenge at ICCV 2025, click to see [challenge website](https://kiva-challenge.github.io/).
 
 # Overview
 [KiVA: Kid-inspired visual analogies ](https://arxiv.org/abs/2407.17773) is a new image‐based multimodal benchmark, grounded in developmental psychology, that uses over simple, intuitive transformations of everyday objects to probe visual analogical reasoning. Inspired by tasks even young children can solve, KiVA evaluates a model’s ability to detect what changed (e.g., size, number, orientation) and apply that abstract rule to novel scenarios. By directly comparing large multimodal models to preschoolers and adults, KiVA sheds light on machines’ capabilities in relation-based generalization and abstract reasoning. 
