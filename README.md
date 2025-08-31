@@ -21,7 +21,7 @@ The KiVA dataset can be downloaded as zip files containing:
 |---------------------------|--------|--------|-------------|
 | All Tasks                 | Train  |  [train_images.zip (183.7MB)](https://storage.googleapis.com/kiva-challenge/train.zip)      |  [train_annotations (json)](https://storage.googleapis.com/kiva-key/train.json)   |
 | All Tasks                 | Valid  |  [validation_images.zip (356.8MB)](https://storage.googleapis.com/kiva-challenge/validation.zip)      |  [validation_annotations (json)](https://storage.googleapis.com/kiva-key/validation.json)    |
-| All Tasks                 | Test  |  [test_images.zip (366.6MB) - available in September](https://storage.googleapis.com/kiva-challenge/test.zip)      |  [test_annotations - not available]   |
+| All Tasks                 | Test  |  [test_images.zip (366.6MB) - available in September](https://storage.googleapis.com/kiva-challenge/test.zip)      |  [test_annotations will not be publicly released]   |
 
 Each image in the dataset denotes an individual trial.
 
