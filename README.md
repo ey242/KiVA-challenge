@@ -19,9 +19,9 @@ The KiVA dataset can be downloaded as zip files containing:
 
 | Task                      | Split  | Images | Annotations |
 |---------------------------|--------|--------|-------------|
-| All Tasks                 | Train  |  [train_images.zip (183.4MB)](https://storage.googleapis.com/kiva-challenge/train.zip)      |  [train_annotations (json)](https://storage.googleapis.com/kiva-key/train.json)   |
-| All Tasks                 | Valid  |  [validation_images.zip (356.2MB)](https://storage.googleapis.com/kiva-challenge/validation.zip)      |  [validation_annotations (json)](https://storage.googleapis.com/kiva-key/validation.json)    |
-| All Tasks                 | Test  |  [test_images.zip (366.2MB)](https://storage.googleapis.com/kiva-challenge/test.zip)      |  [test_annotations will not be publicly released]   |
+| All Tasks                 | Train  |  [train_images.zip (183.4MB)](https://storage.googleapis.com/kiva-challenge-bucket/train.zip)      |  [train_annotations (json)](https://storage.googleapis.com/kiva-key-bucket/train.json)   |
+| All Tasks                 | Valid  |  [validation_images.zip (356.2MB)](https://storage.googleapis.com/kiva-challenge-bucket/validation.zip)      |  [validation_annotations (json)](https://storage.googleapis.com/kiva-key-bucket/validation.json)    |
+| All Tasks                 | Test  |  [test_images.zip (366.2MB)](https://storage.googleapis.com/kiva-challenge-bucket/test.zip)      |  [test_annotations will not be publicly released]   |
 
 Each image in the dataset denotes an individual trial.
 
