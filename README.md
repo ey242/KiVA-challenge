@@ -69,7 +69,7 @@ We provide a dummy baseline to showcase how models will be evaluated in the chal
 
 ## Feedback and support
 
-If you have any questions, feedback, or require support regarding the KiVA dataset or challenge, please contact us at **kiva.challenge.25@gmail.com**.
+If you have any questions, feedback, or require support regarding the KiVA dataset or challenge, please contact Eunice Yiu at **ey242@berkeley.edu**.
 
 ## Citing this work
 
